@@ -1,5 +1,5 @@
 # config_parser
-Config_parser is a Python script that can be used to examine a Cisco IOS router configuration file and summarize the protocols being enabled on the networking device. It is meant to be a quick analysis of the enabled routing protocols along with the interface-enabled protocols for IOS-style configurations. The focus in on giving information on protocols and not traffic policies. The output includes:
+Config_parser is a Python script that can be used to examine a Cisco IOS router configuration file and summarize the protocols being enabled on the networking device. It is meant to be a quick analysis of the enabled routing protocols along with the interface-enabled protocols for IOS-style configurations. The focus is on giving information regarding protocols and not traffic policies. The output includes:
 - Firmware version
 - hostname
 - if encrypted password is enabled
